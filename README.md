@@ -5,5 +5,5 @@
 *   **Участник:** Манкевич Ангелина Анатольевна (Вариант 15 - "Рейс")
 
 ## Репозитории проекта
-*   **[Репозиторий для документации и управления проектом] (https://github.com/fpmi-tpmp2026/tpmp-gr12a-lab4-banka_pertsev)**
+*   **[Репозиторий для документации и управления проектом](https://github.com/fpmi-tpmp2026/tpmp-gr12a-lab4-banka_pertsev)**
 *   **[Репозиторий с исходным кодом и CI/CD](https://github.com/iamglebik/tpmp-lab4-second_repository)**
